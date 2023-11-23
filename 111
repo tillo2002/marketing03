@@ -1,0 +1,2130 @@
+“RAQAMLI QURILMALARNI LOYIHALASHGA KIRISH” FANIDAN TEST SAVOLLARI
+№1
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+“EMAS” amalini bajaruvchi mantiqiy element funksiyasi
+y  x
+y  x
+1 2
+y  x  x
+1 2
+y  x  x
+№2
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+“2HAM” mantiqiy elementining mantiqiy algebraik funksiyasi
+1 2
+y  x  x
+1 2
+y  x  x
+y  x
+y  x
+№3
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+“2YOKI” mantiqiy elementining mantiqiy algebraik funksiyasi
+1 2
+y  x  x
+1 2
+y  x  x
+y  x
+y  x
+№4
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+“2HAM-EMAS” mantiqiy elementining mantiqiy algebraik funksiyasi
+1 2
+y  x  x
+1 2
+y  x  x
+1 2
+y  x  x
+1 2
+y  x  x
+№5
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+“2YOKI-EMAS” mantiqiy elementining mantiqiy algebraik funksiyasi
+1 2
+y  x  x
+1 2
+y  x  x
+1 2
+y  x  x
+1 2
+y  x  x
+№6
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+.........qurilmalar deb, chiqish signallari kirish o‘zgaruvchilari kombinatsiyasi bilan
+belgilanadigan, xotirasiz mantiqiy qurilmalarga aytiladi.
+kombinatsion
+ketma-ket
+parallel
+arifmetik mantiqiy qurilma
+№7
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+O‘nlik, sakkizlik yoki o‘n oltitalik sanoq tizimidagi raqamlarni ikkilik yoki ikkilik-o‘nlik kodga
+o‘zgartiruvchi kombinatsion mantiqiy qurilma
+shifrator
+demultipleksor
+deshifrator
+multipleksor
+№8
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Ikkilik sanoq tizimidagi raqamlarni o‘nlik sanoq tizimidagi kodga o‘zgartiruvchi kombinatsion
+mantiqiy qurilma
+deshifrator
+demultipleksor
+shifrator
+multipleksor
+№9
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Bir necha manbadan berilayotgan ma’lumotlarni bitta chiqish kanaliga uzatishni boshqarish
+uchun mo‘ljallangan qurilma?
+multipleksor
+deshifrator
+demultipleksor
+shifrator
+№10
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Ikkilik koddagi sonlarni qo‘shish asosiy arifmetik amalini bajaruvchi kombinatsion qurilma?
+summator
+deshifrator
+multipleksor
+shifrator
+№11
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Chiqish signallari kirish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, hozirgi va oldingi
+oniy qiymatlari uchun, ya’ni kirish o‘zgaruvchilarining kelish tartibi bilan belgilanadigan,
+xotirali mantiqiy qurilma?
+ketma – ketli qurilma
+analog qurilma
+kombinatsion qurilma
+shifrator qurilmasi
+№12
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Ikkita turg‘un holatga ega bir-biri bilan o‘zaro kesishib ketgan, teskari aloqalari
+mavjud bo‘lgan ikkita invertorli mantiqiy qurilma?
+bistabil yacheyka
+2 YOKI-EMAS ME
+Invertor
+Kombinatsion qurilmalar
+№13
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Sanoq triggerining belgilanishi
+T
+RS
+JK
+D
+№14
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Kechikish triggerining belgilanishi
+D
+T
+RS
+JK
+№15
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Universal triggerning belgilanishi
+JK
+D
+T
+RS
+№16
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Ketma-ket turdagi raqamli qurilma bo‘lib, ko‘p razryadli ikkilik sonlar ko‘rinishidagi
+ma’lumotlarni eslab qolish va vaqtincha xotirada saqlash uchun ishlatiladi.
+registr
+trigger
+bistabil yacheyka
+JK-trigger
+№17
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+…...-trigger universal trigger hisoblanadi
+JK
+D
+T
+RS
+№18
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+…..-trigger kechikish triggeri hisoblanadi
+D
+T
+RS
+JK
+№19
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+…..-trigger vagt triggeri hisoblanadi
+T
+RS
+JK
+D
+№20
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Kirishiga berilgan ma’lumotlarni ketma-ket tartibda yozish, saqlash va uzatish uchun
+mo‘ljallangan
+Ketma-ketli registr
+Parallel registrlar
+Bistabil yacheyka
+Parallel hisoblagichlar
+№21
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Kommutativlik qonuni qaysi javobda to’g’ri keltirilgan?
+1 2 2 1 1 2 2 1
+x  x  x  x , x  x  x  x
+2 1 1 2
+x  x  x  x
+2 1 1 2
+x  x  x  x
+2 1 1 2
+x  x  x  x
+№22
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Kirish signallari ustida aniq bir mantiqiy amalni bajaradigan elektron qurilma qanday
+nomlanadi?
+mantiqiy element
+mantiqiy funksiya
+vaqt diagrammasi
+karno kartasi
+№23
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+……triggeri kirishiga aktiv mantiqiy signal berilganda u o‘z holatini qarama-qarshi (teskari)
+holatga o‘zgartiradi
+T
+D
+RS
+JK
+№24
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+……universal trigger hisoblanadi chunki uning asosida sodda kommutatsion o‘zgartirishlarni
+bajarib, ixtiyoriy turdagi trigger hosil qilish mumkin.
+JK triggeri
+RS triggeri
+T triggeri
+D triggeri
+№25
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Raqamli integral sxemalarning negiz elementlari qaysi javobda noto`g`ri berilgan?
+invertor, dizyunksiya, konyuksiya
+TTM, EBM
+MDYA, KMDYA
+I2M, TTM
+№26
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Qaysi tranzistor tuzilmasida dielektrik qatlam qo‘llaniladi?
+MDYa tranzistorda
+p-n o‘tish bilan boshqariladigan maydoniy tranzistor
+n-p-n bipolyar tranzistorda
+p-n-p bipolyar tranzistorda
+№27
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Qaysi komplimentar tranzistor tuzilmasida dielektrik qatlam qo‘llaniladi?
+KMDYa tranzistorlarda
+p-n o‘tish bilan boshqariladigan maydoniy tranzistor
+n-p-n bipolyar tranzistorda
+p-n-p bipolyar tranzistorda
+№28
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Chiqishidagi ma’lumot navbatdagi sinxrosignal kelguncha o‘zgarishsiz qoladi, ya’ni kechikish
+mavjud. Shunga asosan bu trigger kechikish triggeri deb ataladi.
+D trigger
+RS trigger
+JK triger
+T trigger
+№29
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Mantiq amallar … - ko`rinishdagi ikkita mantiq bilan ishlaydi
+rost va yolg’on
+analog va raqamli
+ko’paytma va yig’indi
+mantiqiy va algebraik
+№30
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Mantiqiy ko`paytirish va qo`shish amallarini bajaradigan qurilma qanday ataladi?
+arifmetik-mantiqiy qurilma
+integral tizim
+analog qurilma
+integrator
+№31
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Kirishiga berilgan ma`lumotlarni ketma-ket tartibda yozish, saqlash va uzatish uchun
+mo’ljallangan qurilma nima deb nomlanadi?
+ketma-ketli registr
+parallel registr
+trigger
+summator
+№32
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Sonlarning ifodalanishi va belgilanishi qanday tizim?
+sanoq (numeratsiya)
+integral
+hisoblagich
+jamlagich
+№33
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+HAM mantiqiy elementining haqqoniylik jadvalini tanlang
+X2 X1 Y
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 1
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 0
+№34
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+HAM-EMAS mantiqiy elementining haqqoniylik jadvalini tanlang
+X2 X1 Y
+0 0 1
+0 1 1
+1 0 1
+1 1 0
+X2 X1 Y
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 1
+№35
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+YOKI-EMAS mantiqiy elementining haqqoniylik jadvalini tanlang
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 1
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 0
+X2 X1 Y
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+№36
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+inversiya mantiqiy elementi……amalini bajaradi
+mantiqiy inkor
+mantiqiy qo`shish
+mantiqiy ko’paytirish
+mantiq
+№37
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+EMAS amalini bajaruvchi mantiqiy element bu?
+Invertor
+YOKI
+HAM
+shifrator
+№38
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+diz`yunksiya……….amalini bajaruvchi mantiqiy element
+mantiqiy qo`shish
+mantiqiy ko’paytirish
+mantiq
+mantiqiy inkor
+№39
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+YOKI mantiqiy elementi………amalini bajaradi
+mantiqiy qo`shish
+mantiqiy ko’paytirish
+mantiq
+mantiqiy inkor
+№40
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+kon`yunksiya mantiqiy elementi…..amalini bajaradi
+mantiqiy ko’paytirish
+mantiq
+mantiqiy inkor
+mantiqiy qo`shish
+№41
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Mantiqiy elementlarda mantiqiy algebra funksiyalarini grafik usulda ixchamlashtirishning eng
+qulay usuli nima hisoblanadi?
+karno kartasi
+vaqt diagrammasi
+mantiqiy algebraic funksiyasi
+rostlik jadvali
+№42
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+HAM mantiqiy elementi…….. amalini bajaradi
+mantiqiy ko’paytirish
+mantiq
+mantiqiy inkor
+mantiqiy qo`shish
+№43
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+....-trigger – ikkita boshqaruv kirishiga ega.
+RS, JK
+RS, D
+D, JK
+D,T
+№44
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+“A yoki B”, “A or B”, “A V B”, “A + B” kabi ko‘rinishlarda yoziladi
+dizyunksiya
+konyunksiya
+HAM mantiqiy elementi
+Invertor
+№45
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Ikkita turg'un holatli chiqishga ega bo'lgan qurilma bo'lib, u elementar xotira yacheykasi (bistabil
+yacheyka) va boshqaruv sxemasiga ega
+triggerlar
+multipleksorlar
+demultipleksorlar
+deshifratorlar
+№46
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+D-trigger ........triggeri deb ataladi
+kechikish
+vaqt
+asinxron
+universal
+№47
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Bir necha manbadan berilayotgan ma'lumotlarni bitta chiqish kanaliga uzatishni boshqarish
+uchun mo'ljallangan qurilma?
+multipleksor
+demultipleksor
+shifrator
+deshifrator
+№48
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Bir kanaldan qabul qilingan ma'lumotlarni bir necha qabul qilgichlarga taqsimlash vazifasini
+bajaradigan qurilma?
+demultipleksor
+multipleksor
+shifrator
+deshifrator
+№49
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+m ta kirish va n ta chiqishga ega bo'lib, kirishlardan biriga berilgan signalni chiqishda n –
+razryadli parallel kodga o'zgartiradi.
+shifrator
+demultipleksor
+multipleksor
+deshifrator
+№50
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Agar shifrator n ta chiqishga ega bo'lsa, u holda uning kirishlari soni (m) 2
+n
+dan kam bo'lmasligi
+kerak. Agar m=2n munosabat bajarilsa shifrator......deyiladi.
+to’liq shifrator
+to’liq emas shifrator
+koder
+dekoder
+№51
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Agar shifrator n ta chiqishga ega bo'lsa, u holda uning kirishlari soni(m) 2
+n
+dan kam bo'lmasligi
+kerak, agar munosabat m<2n
+bo'lsa, u .........deb ataladi.
+to’liq emas shifrator
+koder
+dekoder
+to’liq shifrator
+№52
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Shifratorga teskari bo'lgan amalni bajaradigan qurilma?
+deshifrator
+summator
+demultipleksor
+multipleksor
+№53
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Agar deshifratorning n kirishlari uning m chiqishlari soni bilan m=2n munosabat bilan
+bog'langan bo'lsa, bunday deshifrator…….deb ataladi.
+to'liq
+to’liq emas
+koder
+dekoder
+№54
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Agar deshifratorning n adres kirishlari uning m chiqishlari soni bilan m<2n
+bo'lsa, deshifrator
+............deb ataladi
+to’liq emas
+koder
+dekoder
+To’liq
+№55
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Deshifratorga teskari bo'lgan amalni bajaradi.
+shifrator
+demultipleksor
+multipleksor
+summator
+№56
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Bir necha yarimsummatorlarni jamlangani nima deyiladi?
+summator
+shifrator
+deshifrator
+demultipleksor
+№57
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+1 2
+y  x  x
+ushbu mantiqiy algebraik funksiya qaysi mantiqiy elementga tegishli?
+2 YOKI-EMAS
+2 HAM-EMAS
+2 ISTISNO-YOKI
+2 ISTISNO-YOKI-EMAS
+№58
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+1 2
+y  x  x
+ushbu mantiqiy algebraik funksiya qaysi mantiqiy elementga tegishli?
+2 HAM-EMAS
+2 YOKI-EMAS
+2 ISTISNO-YOKI
+2 ISTISNO-YOKI-EMAS
+№59
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Raqamli kattalikni unga proporsional bo’lgan elektr toki yoki kuchlanish ko’rishidagi analog
+kattalikka o’zgartiradigan qurilma?
+raqamli-analog o’zgartirgich
+trigger
+analog –raqamli o’zgartirgich
+registr
+№60
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Raqamli kattalikni analog kattalikka o’zgartiradigan qurilma?
+raqamli-analog o’zgartirgich
+trigger
+analog –raqamli o’zgartirgich
+registr
+№61
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Analog kattalikni unga proporsional bo’lgan elektr toki yoki kuchlanish ko’rishidagi raqamli
+kattalikka o’zgartiradigan qurilma?
+analog –raqamli o’zgartirgich
+registr
+raqamli-analog o’zgartirgich
+trigger
+№62
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Analog kattalikni raqamli kattalikka o’zgartiradi.
+analog –raqamli o’zgartirgich
+multipleksor
+raqamli-analog o’zgartirgich
+registr
+№63
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Mikroprotsessor tomonidan qayta ishlayotgan unchalik katta bo’lmagan xajmdagi ma’lumotlarni
+saqlashga mo’ljallangan qurilma.
+ichki xotira
+tashqi xotira
+kesh xotira
+video xotira
+№64
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Qurilma o’chirilgan yoki yoqilgandan qat’iy nazar katta xajmdagi ma’lumotlarni uzoq muddat
+saqlaydi.
+tashqi xotira
+kesh xotira
+video xotira
+ichki xotira
+№65
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+O’nlik sanoq sistemasidagi 20 soni ikkilik sanoq sistemasida qanday bo’ladi
+10100
+11001
+11101
+10101
+№66
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+HAM-EMAS mantiqiy elementning vazifasi
+ko’paytirib inkorlash
+qo’shib inkorlash
+bo’lib inkorlash
+inkorlash
+№67
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+YOKI-EMAS mantiqiy elementining vazifasi.
+qo’shib inkorlash
+ko’paytirib inkorlash
+ko’paytirish
+inkorlash
+№68
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Keltirilgan shartlarning qaysi biri de Morgan teoremasiga ta’luqli?
+0 1 0 1
+x  x  x  x
+0 1 0 1
+x  x  x  x
+0 1 0 1 x  x  x  x
+1 1 0
+x0  x  x  x
+№69
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Axborotni qabul qiluvchi, saqlovchi, murakkab bo'lmagan o'zgartirishlar (chapga va o'nga
+surish)ni amalga oshiruvchi, hamda axborotni to'g'ri va teskari kodlarda uzatuvchi qurilma?
+registr
+invertor
+summator
+shifrator
+№70
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 1
+Parallel prinsipda ishlovchi registrlarda…
+kodlar parallel yoziladi va o'qiladi
+kodlar ketma ket yoziladi va o'qiladi
+kodlar o’nlik sanoq tizimiga o’tkazib yoziladi va o'qiladi
+o’nlik sanoq tizimidagi raqamlarni ikkilik yoki ikkilik-o‘nlik kodga o‘zgartirib yoziladi va
+o’qiladi
+№71
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ketma-ket prinsipda ishlovchi registrlarda …
+kodlar ketma-ket yoziladi va o'qiladi
+kodlar parallel yoziladi va o'qiladi
+kodlar o’nlik sanoq tizimiga o’tkazib yoziladi va o'qiladi
+o’nlik sanoq tizimidagi raqamlarni ikkilik yoki ikkilik-o‘nlik kodga o‘zgartirib yoziladi va
+o’qiladi
+№72
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Axborotni to'g'ri va teskari kodlarda uzatish vazifasini bajaradigan qurilma qaysi javobda to’g’ri
+keltirilgan?
+registr
+shifrator
+summator
+multipleksor
+№73
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Registr sxemasi qanday hosil qilinadi?
+triggerlarni ketma-ket yoki parallel ulash orqali
+shifratorlarni ketma-ket yoki parallel ulash orqali
+deshifratorlarni ketma-ket yoki parallel ulash orqali
+multipleksorlarni ketma-ket yoki parallel ulash orqali
+№73
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Registrlarning asosini qaysi qurilmalar hosil qiladi?
+triggerlar
+shifratorlar
+kombinatsion qurilmalar
+multipleksorlar
+№74
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Saqlanayotgan axborotni ham o'ngga, ham chapga surish uchun xizmat qiladi.
+reversiv registrlar
+parallel registrlar
+ketma-ket registrlar
+o’ngga suruvchi registrlar
+№75
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Qaysi qurilma "n" ta kirish kanalidan keladigan ma’lumotni bitta chiqish kanaliga uzatishni
+boshqarish vazifasini bajaradi?
+multipleksor
+demultipleksor
+trigger
+mikroprotsessor
+№76
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Qaysi qurilma bitta kirish kanalidan berilgan ma’lumotni "n" ta chiqish kanaliga ulashni
+taqsimlash vazifasini bajaradi?
+demultipleksor
+trigger
+mikroprotsessor
+multipleksor
+№77
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Multipleksor bu - …
+bir nechta kirish kanalidan keladigan ma’lumotni bitta chiqish kanaliga uzatishni boshqaruvchi
+qurilma
+bitta kirish kanalidan berilgan ma’lumotni saqlash, qayta ishlash va chiqish kanaliga ulashni
+taqsimlash vazifasini bajaradigan qurilma
+bir nechta kirish kanalidan keladigan ma’lumotni vaqtincha saqlovchi qurilma
+bir nechta kirish kanalidan keladigan ma’lumotni saqlash, qayta ishlash va chiqish kanaliga
+uzatishni boshqaruvchi qurilma
+№78
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Demultipleksor bu - …
+bitta kirish kanalidan berilgan ma’lumotni "n" ta chiqish kanaliga ulashni taqsimlash vazifasini
+bajaradigan qurilma
+bitta kirish kanalidan berilgan ma’lumotni saqlash, qayta ishlash va chiqish kanaliga ulashni
+taqsimlash vazifasini bajaradigan qurilma
+bir nechta kirish kanalidan keladigan ma’lumotni bitta chiqish kanaliga uzatishni boshqaruvchi
+qurilma
+bir nechta kirish kanalidan keladigan ma’lumotni saqlash, qayta ishlash va chiqish kanaliga
+uzatishni boshqaruvchi qurilma
+№79
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Operativ xotira qurilmasining mikrosxemasi qanday belgilanadi?
+RAM
+PROM
+ROM
+RPROM
+№80
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Xisoblagich qanday qurilmalardan tashkil topgan?
+triggerlardan
+shifratorlardan
+deshifratorlardan
+multipleksorlardan
+№81
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+ROM–belgisi qaysi qurilmaga tegishli?
+Doimiy xotira qurilmasiga
+Operativ xotira qurilmasiga
+Ichki xotira qurilmasiga
+Tashqi xotira qurilmasiga
+№82
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Analog-raqam o’zgartirgich (ARO’)ning vazifasi nima?
+analog signalni unga proporsional bo’lgan raqamli signalga aylantiradi
+raqamli signali analogli signalga aylantiradi
+ikkilik kodini o’nlik raqamga o’tkazish
+raqamli kattalikni unga proportsioanal bo‘lgan elektr tok yoki kuchlanish ko‘rinishidagi analog
+kattalikka o‘zgartirish
+№83
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Raqamli-analog o‘zgartirgich (RAO’)ning vazifasi nima?
+raqamli kattalikni unga proportsioanal bo‘lgan elektr tok yoki kuchlanish ko‘rinishidagi analog
+kattalikka o‘zgartirish
+analog signalni raqamli signalga aylantirish
+uzluksiz signalni raqamli signalga aylantirish
+ikkilik kodini hisoblash
+№84
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Xisoblagichlar asosini qanday elementlar tashkil etadi?
+triggerlar
+diodlar
+shifratorlar
+multipleksorlar
+№85
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Xisoblagichning razryadi nimaga bog’liq?
+triggerlar soniga
+tranzistorlar soniga
+shifratorlar soniga
+multipleksorlar soniga
+№86
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Registrning razryadi nimaga bogliq?
+triggerlar soniga
+tranzistorlar soniga
+shifratorlar soniga
+multipleksorlar soniga
+№87
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Mantiq algebrasida haqiqiy degan ibora qaysi sonni anglatadi?
+1
+0
+10
+01
+№88
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Keltirilgan shartlarning qaysi biri de Morgan teoremasiga ta’luqli?
+0 1 0 1 x x x x    0 1 0 1
+x  x  x  x
+0 1 0 1 x  x  x  x
+1 1 0
+x0  x  x  x
+№89
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Keltirilgan shartlarning qaysi biri de Morgan teoremasiga ta’luqli?
+0
+1 0 1 x x x    x
+0 1 0 1
+x  x  x  x
+0 1 0 1 x  x  x  x
+1 1 0
+x0  x  x  x
+№90
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Keltirilgan shartlarning qaysi biri de Morgan teoremasiga ta’luqli?
+0 1 0 1
+x  x  x  x
+0 1 0 1
+x  x  x  x
+0 1 0 1 x  x  x  x
+1 1 0
+x0  x  x  x
+№91
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Keltirilgan shartlarning qaysi biri de Morgan teoremasiga ta’luqli?
+0 1 0 1
+x  x  x  x
+0 1 0 1
+x  x  x  x
+0 1 0 1 x  x  x  x
+1 1 0
+x0  x  x  x
+№92
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+ushbu haqiqiylik jadvali qaysi mantiqiy elementga tegishli?
+2YOKI-EMAS
+2YOKI
+2HAM-EMAS
+2HAM
+№93
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 0
+ushbu haqiqiylik jadvali qaysi mantiqiy elementga tegishli?
+ISTISNO-YOKI
+ISTISNO-YOKI-EMAS
+YOKI
+HAM
+№94
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 1
+ushbu haqiqiylik jadvali qaysi mantiqiy elementga tegishli?
+ISTISNO-YOKI-EMAS
+ISTISNO-YOKI
+YOKI
+HAM
+№95
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Mantiq algebrasida 0 soni qanday iborani anglatadi?
+haqiqiy emas
+rost
+haqiqiy
+bor
+№96
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Konyunksiya bu…..
+mantiqiy ko’paytirish amali
+mantiqiy qo’shish amali
+mantiqiy inkor amali
+ixchamlangan mantiqiy algebraik funksiya
+№97
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Konyunksiya amali qaysi mantiqiy element yordamida bajariladi?
+HAM
+YOKI
+INVERSIYA
+YOKI-EMAS
+№98
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+(^), (∙) yoki (&) ko’rinishidagi belgilar qaysi amalni bajaradi?
+konyunksiya
+dizyunksiya
+inkor
+mantiqiy qo’shish
+№99
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Konyunksiyaga berilgan to’g’ri ta’rifni toping.
+Ikkala x1 va x2 o’zgaruvchilar chin bo’lsagina ularning qiymati chin, x1 va x2 ning kamida
+bittasi yolg’on bo’lsa ularning qiymati yolg’ondir
+Ikkala x1 va x2 o’zgaruvchilardan biri chin bo’lsa ularning qiymati chindir
+Ikkala x1 va x2 o’zgaruvchilar chin bo’lsa ularning qiymati yolg’on, x1 va x2 ning kamida
+bittasi yolg’on bo’lsa ularning qiymati chindir
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsa ularning qiymati chin, x1 va x2 ning kamida
+bittasi chin bo’lsa ularning qiymati yolg’ondir
+№100
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ikkala x1 va x2 o’zgaruvchilar chin bo’lsagina ularning qiymati chin, x1 va x2 ning kamida
+bittasi yolg’on bo’lsa ularning qiymati yolg’ondir: ushbu ta’rif qaysi mantiqiy elementga
+berilgan?
+2HAM
+2HAM-EMAS
+2YOKI
+2YOKI-EMAS
+№101
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ikkala x1 va x2 o’zgaruvchilar chin bo’lsagina ularning qiymati yolg’on, x1 va x2 ning kamida
+bittasi yolg’on bo’lsa ularning qiymati chindir: ushbu ta’rif qaysi mantiqiy elementga berilgan?
+2HAM-EMAS
+2HAM
+2YOKI
+2YOKI-EMAS
+№102
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsagina ularning qiymati chin, x1 va x2 ning kamida
+bittasi chin bo’lsa ularning qiymati yolg’ondir: ushbu ta’rif qaysi mantiqiy elementga berilgan?
+2YOKI-EMAS
+2HAM-EMAS
+2YOKI
+2HAM
+№103
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsagina ularning qiymati yolg’on, x1 va x2 ning
+kamida bittasi chin bo’lsa ularning qiymati chindir: ushbu ta’rif qaysi mantiqiy elementga
+berilgan?
+2YOKI
+2YOKI-EMAS
+2HAM
+2HAM-EMAS
+№104
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Pirs elementiga berilgan to’g’ri ta’rifni toping.
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsagina ularning qiymati chin, x1 va x2 ning kamida
+bittasi chin bo’lsa ularning qiymati yolg’ondir
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsa ularning qiymati yolg’on, x1 va x2 ning kamida
+bittasi chin bo’lsa ularning qiymati chindir
+Ikkala x1 va x2 o’zgaruvchilar chin bo’lsa ularning qiymati chin, x1 va x2 ning kamida bittasi
+yolg’on bo’lsa ularning qiymati yolg’ondir
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsa ularning qiymati yolg’on, x1 va x2 ning kamida
+bittasi chin bo’lsa ularning qiymati chindir
+№105
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Sheffer elementiga berilgan to’g’ri ta’rifni toping.
+Ikkala x1 va x2 o’zgaruvchilar chin bo’lsagina ularning qiymati yolg’on, x1 va x2 ning kamida
+bittasi yolg’on bo’lsa ularning qiymati chindir
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsa ularning qiymati yolg’on, x1 va x2 ning kamida
+bittasi chin bo’lsa ularning qiymati chindir
+Ikkala x1 va x2 o’zgaruvchilar chin bo’lsa ularning qiymati chin, x1 va x2 ning kamida bittasi
+yolg’on bo’lsa ularning qiymati yolg’ondir
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsagina ularning qiymati chin, x1 va x2 ning kamida
+bittasi chin bo’lsa ularning qiymati yolg’ondir
+№106
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ikkala x1 va x2 o’zgaruvchilar chin bo’lsagina ularning qiymati yolg’on, x1 va x2 ning kamida
+bittasi yolg’on bo’lsa ularning qiymati chindir: ushbu ta’rif qaysi mantiqiy elementga berilgan?
+sheffer elementi
+pirs elementi
+konyunksiya
+dizyunksiya
+№107
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsa ularning qiymati yolg’on, x1 va x2 ning kamida
+bittasi chin bo’lsa ularning qiymati chindir: ushbu ta’rif qaysi mantiqiy elementga berilgan?
+dizyunksiya
+pirs elementi
+konyunksiya
+sheffer elementi
+№108
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ikkala x1 va x2 o’zgaruvchilar yolg’on bo’lsagina ularning qiymati chin, x1 va x2 ning kamida
+bittasi chin bo’lsa ularning qiymati yolg’ondir: ushbu ta’rif qaysi mantiqiy elementga mos?
+pirs elementi
+sheffer elementi
+2YOKI
+2HAM
+№109
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Mantiqiy funksiyalarni minimizatsiyasi deb nimaga aytiladi?
+Sxemadagi yoki formuladagi elementlar sonining minimal xolga keltirilish
+Sxemadagi yoki formuladagi elementlar sonining maksimal xolga keltirilish
+Sxemadagi yoki formuladagi elementlar sonining umumiy xolga keltirilish
+Mantiqiy elementning blok sxemasini tuzish
+№110
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+4x1-Multipleksorda ikkilik manzil kirish (S)lari soni nechta bo’ladi?
+ikkita
+uchta
+to’rtta
+bitta
+№111
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+8x1-Multipleksorda ikkilik manzil kirish (S)lari soni nechta bo’ladi?
+uchta
+to’rtta
+sakkizta
+bitta
+№112
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+14x1-Multipleksorda ikkilik manzil kirish (S)lari soni nechta bo’ladi?
+4
+14
+3
+1
+№113
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+1 2
+y  x  x
+ushbu mantiqiy algebraik funksiya qaysi mantiqiy elementga tegishli?
+2YOKI mantiqiy elementiga
+2HAM mantiqiy elementiga
+2YOKI-EMAS mantiqiy elementiga
+EMAS mantiqiy elementiga
+№114
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+1 2
+y  x  x
+ushbu mantiqiy algebraik funksiya qaysi mantiqiy elementga tegishli?
+2 HAM mantiqiy elementiga
+2 YOKI mantiqiy elementiga
+2 HAM-EMAS mantiqiy elementiga
+EMAS mantiqiy elementiga
+№115
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ikkita turg’un xolatga ega bo’lgan ketma-ket turdagi kichik xotira qurilmasi bu?
+trigger
+multipleksor
+demultipleksor
+deshifrator
+№116
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Qaysi qurilma bir nechta kirishlarni bitta chiqishga ulaydi?
+Multipleksor
+Demultipleksor
+Jamlagich
+Shifrator
+№117
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Qaysi qurilma bir nechta chiqishlarni bitta kirishga ulaydi
+Demultipleksor
+Multipleksor
+Jamlagich
+Shifrator
+№118
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Xotira qurilmasi, boshqaruv yacheykasi va ikkita turg’un xolatga ega bo’lgan ketma-ket turdagi
+qurilma......... deb ataladi
+trigger
+multipleksor
+demultipleksor
+deshifrator
+№119
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Qaysi logik qurilma arifmetik jarayonni, ya’ni ikkilik kodlarini qo’shishda ishlatiladi?
+jamlagich
+multipleksor
+shifrator
+deshifrator
+№120
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Saqlash registrlari qanday qurilmalardan iborat?
+RS, JK, D triggerlardan
+koderlardan
+shifratorlardan
+dekoderlardan
+№121
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+“A yoki B”, “A or B”, “A V B”, “A + B” kabi ko‘rinishlarda yoziladi
+dizyunksiya
+konyunksiya
+HAM mantiqiy elementi
+YOKI mantiqiy elementi
+№122
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O’nlik sanoq sistemasidagi 15 sonini ikkilik sanoq sistemasida qanday bo’ladi?
+1111
+10000
+00001
+1001
+№123
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ikkilik sanoq sistemasidagi 1001 soni o’nlik sanoq sistemasida qanday boladi?
+9
+10
+11
+12
+№124
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O’nlikdagi 20 sonini ikkilikka o’tkazing
+10100
+1111
+1000
+1010
+№125
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+10100 ikkilik sanoq tizimidagi ushbu kodni o’nlikka o’tkazing
+20
+18
+17
+21
+№126
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+ISTISNO-YOKI-EMAS mantiqiy elementining haqqoniylik jadvalini tanlang
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 1
+X2 X1 Y
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 0
+№127
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+ISTISNO-YOKI mantiqiy elementining haqqoniylik jadvalini tanlang
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 0
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 1
+X2 X1 Y
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+№128
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Registrlarning asosini qaysi qurilmalar tashkil qiladi?
+triggerlar
+shifratorlar
+kombinatsion qurilmalar
+multipleksorlar
+№129
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Xisoblagichning razryadi nimaga bog’liq?
+tarkibidagi triggerlar soniga
+tarkibidagi shifratorlar soniga
+tarkibidagi kombinatsion qurilmalar soniga
+tarkibidagi multipleksorlar soniga
+№130
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Qaysi javobda JK triggerga to’g’ri ta’rif berilgan?
+universal trigger hisoblanadi chunki uning asosida sodda kommutatsion o‘zgartirishlarni bajarib,
+ixtiyoriy turdagi trigger hosil qilish mumkin.
+chiqishidagi ma’lumot navbatdagi sinxrosignal kelguncha o‘zgarishsiz qoladi, ya’ni kechikish
+mavjud. Shunga asosan bu trigger kechikish triggeri deb ataladi.
+ikkita turg‘un holatga ega bir-biri bilan o‘zaro kesishib ketgan, teskari aloqalari mavjud bo‘lgan
+ikkita invertorli xotirasiz mantiqiy qurilma
+bu trigger kirishiga aktiv mantiqiy signal berilganda u o‘z holatini qarama-qarshi (teskari)
+holatga o‘zgartiradi.
+№131
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Komparator vazifasi
+Ikkita ikkilik sonni solishtirish
+Ikkita ikkilik sonni qo’shish
+Ikkita ikkilik sonni ko’paytirish
+Ikkita ikkilik sonni bo’lish
+№132
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Mantiqiy element bu - …
+Kirish signallari ustida aniq bir mantiqiy amal bajaradigan elektron qurilma
+Raqamli mashinaning ichidagi struktura
+Ixchamlangan mantiqiy funksiya
+Analog signalni raqamli signalga o’zgartiruvchi qurilma
+№133
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+KNSH operatsiyasi bu…..
+Yig’indilarning ko’paytmasi ko’rinishida yoziladigan mantiqiy algebraik funksiya
+Ko’paytmalarning yig’indisi ko’rinishida yoziladigan mantiqiy algebraik funksiya
+Faqat ko’paytma shaklida yoziladigan mantiqiy algebraik funksiya
+Faqat yig’indi shaklida yoziladigan mantiqiy algebraik funksiya
+№134
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+DNSH operatsiyasining funksiyasida qanday sodda mantiqiy elementlar qo’llaniladi?
+Ko’paytmalarning yig’indisi ko’rinishida yoziladigan mantiqiy algebraik funksiya
+Yig’indilarning ko’paytmasi ko’rinishida yoziladigan mantiqiy algebraik funksiya
+Faqat ko’paytma shaklida yoziladigan mantiqiy algebraik funksiya
+Faqat yig’indi shaklida yoziladigan mantiqiy algebraik funksiya
+№135
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+To’g’ri kirishli asinxron RS-triggerining qaysi holatli kirishlari chiqishda o’zgarmas holatni
+ta’minlaydi?
+R=0, S=0
+R=1, S=1
+R=0, S=1
+R=1, S=0
+№136
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+To’g’ri kirishli asinxron RS-triggerining kirishlariga qanday kombinatsiya berilganda, trigger
+chiqishlarida signal noaniq holatga tushib qoladi?
+R=1, S=1
+R=0, S=0
+R=0, S=1
+R=1, S=0
+№137
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Berilgan ma’lumotlarni eslab qolish va vaqtincha saqlash xususiyatiga ega mantiqiy elementni
+tanlang
+trigger
+shifrator
+multipleksor
+deshifrator
+№138
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Beshta ma’lumot kirishiga ega bo’lgan multipleksorning chiqishlari soni nechta bo’ladi?
+bitta
+n ta
+ikkita
+beshta
+№139
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Manzil kirishlari soni uchga teng bo’lgan multipleksorning ma’lumot kirishlari soni maksimal
+nechta bo’ladi?
+8
+9
+1
+3
+№140
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Manzil kirishlari soni to’rttaga teng bo’lgan multipleksorning ma’lumot kirishlari soni maksimal
+nechta bo’ladi?
+16
+1
+4
+8
+№141
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+YOKI mantiqiy elementining haqqoniylik jadvalini tanlang
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 1
+X2 X1 Y
+0 0 0
+0 1 1
+1 0 1
+1 1 0
+X2 X1 Y
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+X2 X1 Y
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+№142
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Birinchi Integral mikrosxema (IMS)lar qachon yaratilgan:
+1958 yilda
+1960 yilda
+1957 yilda
+1989 yilda
+№143
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O‘zgaruvchilar soni n ga teng bo‘lsa, Karno kartasi yacheykalari soni nechta bo‘ladi?
+n
+2
+2n
+2
+2n
+2
+n
+№144
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O‘zgaruvchilar soni 3 ga teng bo‘lsa, Karno kartasi yacheykalari soni nechta bo‘ladi?
+8
+16
+4
+3
+№145
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O‘zgaruvchilar soni 2 ga teng bo‘lsa, Karno kartasi yacheykalari soni nechta bo‘ladi?
+4
+16
+8
+3
+№146
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O‘zgaruvchilar soni 4 ga teng bo‘lsa, Karno kartasi yacheykalari soni nechta bo‘ladi?
+16
+8
+4
+3
+№147
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O’nlik sanoq sistemasidagi 15 sonini ikkilik sanoq sistemasida qanday bo’ladi?
+1111
+10000
+00001
+1001
+№148
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O‘zgaruvchilar soni 2 ga teng bo‘lgan mantiqiy elementning rostlik jadvalida kombinatsiyalar
+soni nechta boladi?
+4
+5
+6
+8
+№149
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O‘zgaruvchilar soni 3 ga teng bo‘lgan mantiqiy elementning rostlik jadvalida kombinatsiyalar
+soni nechta boladi?
+8
+16
+4
+3
+№150
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+O‘zgaruvchilar soni 4 ga teng bo‘lgan mantiqiy elementning rostlik jadvalida kombinatsiyalar
+soni nechta boladi?
+16
+8
+7
+5
+№151
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Mantiqiy elementning rostlik jadvalida kombinatsiyalar soni 16ga teng bo’lsa, bu mantiqiy
+elementning o’zgaruvchilari soni nechta boladi?
+4
+3
+2
+8
+№152
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Tranzistor – tranzistorli mantiq (TTM) larda qanday tranzistorlardan foydalaniladi?
+ko‘p emitterli transistor
+maydoniy transistor
+n-MDYa transistor
+KMDYa transistor
+№153
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Mantiqiy elementning rostlik jadvalida kombinatsiyalar soni 8 ta bo’lsa, bu mantiqiy
+elementning o’zgaruvchilari soni nechta boladi?
+3
+4
+2
+16
+№154
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Mantiqiy elementning rostlik jadvalida kombinatsiyalar soni 4 ta bo’lsa, bu mantiqiy
+elementning o’zgaruvchilari soni nechta boladi?
+2
+4
+8
+16
+№155
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+o‘lchamlari 0,1 dan 100 nm gacha bo‘lgan yarimo‘tkazgich tuzilmalar elektronikasi bo‘lib
+hisoblanadi.
+nanoelektronika
+analog elektronika
+mikroelektronika
+yarimo’tkazgichlar elektronikasi
+№156
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Pardali texnologiyada element parametrlarining ruxsat etilgan tarqoqligi....dan oshmaydi.
+1÷2 %
+10÷20 %
+15÷25 %
+1÷20 %
+№157
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Ishlatilgan tranzistor turiga muvofiq yarimo‘tkazgich integral mikrosxemalar ....... va .......
+IMSlarga ajratiladi.
+bipolyar va MDYA
+maydoniy va p-MDYA
+maydoniy va bipolyar
+KMDYA va maydoniy
+№158
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Mantiqiy element bu
+Kirish signallari ustida aniq bir mantiqiy amal bajaradigan elektron qurilma
+Raqamli mashinaning ichidagi struktura
+Ixchamlangan mantiqiy funksiya
+Analog signalni raqamli signalga o’zgartiruvchi qurilma
+№159
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Elementlari dielektrik asos sirtida parda ko‘rinishida hosil qilingan mikrosxemalar .... deb
+ataladi.
+pardali IMS
+gibridli IMS
+yarimo’tkazgichli IMS
+dielektrik IMS
+№160
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Umumiy dielektrik asosda joylashgan pardali passiv va diskret aktiv elementlar
+kombinatsiyasidan iborat mikrosxema bu?
+gibrid IMS
+pardali IMS
+yarimo’tkazgichli IMS
+dielektrik IMS
+№161
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Funksional vazifasiga ko‘ra ISlar ......larga bo‘linadi.
+anolog va raqamli IS
+gibrid va analog IS
+gibrid va pardali IS
+analog va pardali IS
+№162
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Kirish signallari ustida aniq bir mantiqiy amal bajaradigan elektron qurilma bu?
+mantiqiy element
+diod
+blok sxema
+rostlik jadval
+№163
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+MEning asosiy ............xarakteristikasi bo‘lib chiqish kuchlanishining kirish kuchlanishiga
+bog’liqligi hisoblanadi.
+statik
+dinamik
+statik va dinamik
+texnik
+№164
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Kichik kirish signallariga yuqori chiqish signallari mos keladigan mantiqiy element............deb
+ataladi.
+inversiya
+mantiqiy qo’shuvchi
+mantiqiy ko’paytiruvchi
+takrorlovchi
+№165
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Yarimo’tkazgichli asbob – kuchaytirgichlari eng birinchi nechanchi yilda ishlab chiqilgan?
+1947-yilda
+1942-yilda
+1938-yilda
+1953-yilda
+№166
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Mantiqiy elementlar ishlash prinsipiga ko‘ra -
+kombinatsion va ketma-ketli qurilmalarga bo‘linadi
+sinxron va asinxron qurilmalarga bo‘linadi
+kombinatsion va parallel qurilmalarga bo‘linadi
+ketma-ketli va parallel qurilmalarga bo‘linadi
+№167
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Kombinatsion qurilmalar deb -
+chiqish signallari kirish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, xotirasiz mantiqiy
+qurilmalarga aytiladi.
+kirish signallari chiqish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, xotirasiz mantiqiy
+qurilmalarga aytiladi.
+kirish signallari chiqish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, ikkita vaqt
+momentiga ega bo‘lgan mantiqiy qurilmalarga aytiladi.
+chiqish signallari kirish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, vaqt momentiga
+ega bo‘lgan, xotirali mantiqiy qurilmalarga aytiladi.
+№168
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Qaysi javobda T triggerga to’g’ri ta’rif berilgan?
+bu trigger kirishiga aktiv mantiqiy signal berilganda u o‘z holatini qarama-qarshi (teskari)
+holatga o‘zgartiradi.
+universal trigger hisoblanadi chunki uning asosida sodda kommutatsion o‘zgartirishlarni bajarib,
+ixtiyoriy turdagi trigger hosil qilish mumkin.
+chiqishidagi ma’lumot navbatdagi sinxrosignal kelguncha o‘zgarishsiz qoladi, ya’ni kechikish
+mavjud. Shunga asosan bu trigger kechikish triggeri deb ataladi.
+ikkita turg‘un holatga ega bir-biri bilan o‘zaro kesishib ketgan, teskari aloqalari mavjud bo‘lgan
+ikkita invertorli xotirasiz mantiqiy qurilma
+№169
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Hajmi ixcham, og’irligi kam, quvvat sarfi kichik, ishonchliligi yuqori. Qanday qurilmalar
+shunday xususiyatlarga ega?
+IMSlar
+Tranzistorlar
+Diodlar
+Analog qurilmalar
+№170
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 2
+Qaysi javobda D triggerga to’g’ri ta’rif berilgan?
+chiqishidagi ma’lumot navbatdagi sinxrosignal kelguncha o‘zgarishsiz qoladi, ya’ni kechikish
+mavjud. Shunga asosan bu trigger kechikish triggeri deb ataladi.
+universal trigger hisoblanadi chunki uning asosida sodda kommutatsion o‘zgartirishlarni bajarib,
+ixtiyoriy turdagi trigger hosil qilish mumkin.
+bu trigger kirishiga aktiv mantiqiy signal berilganda u o‘z holatini qarama-qarshi (teskari)
+holatga o‘zgartiradi.
+ikkita turg‘un holatga ega bir-biri bilan o‘zaro kesishib ketgan, teskari aloqalari mavjud bo‘lgan
+ikkita invertorli xotirasiz mantiqiy qurilma
+№171
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Shifrator yoki koder deb nimaga aytiladi?
+O’nlik, sakkizlik yoki o’n oltitalik sanoq tizimidagi raqamlarni ikkilik yoki ikkilik-o’nlik kodga
+o’zgartiruvchi kombinatsion mantiqiy qurilma.
+Chiqish signallari kirish o’zgaruvchilari kombinatsiyasi bilan belgilanadigan, ikkita vaqt
+momentiga ega bo’lgan qurilma.
+Ikkilik sanoq tizimidagi raqamlarni o’nlik sanoq tizimidagi kodga o’zgartiruvchi kombinatsion
+mantiqiy qurilma.
+Ikkilik koddagi sonlarni qo’shish asosiy arifmetik amalini bajaruvchi kombinatsion qurilma.
+№172
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Operativ xotira qurilmasi qanday turlarga bo’linadi?
+statik va dinamik
+ichki va tashqi
+faqat dinamik
+sinxron va asinxron
+№173
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Eng birinchi mikroprotsessor nechinchi yilda ishlab chiqilgan?
+1971-yilda
+1972-yilda
+1985-yilda
+1990-yilda
+№174
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+MDYA tranzistorlari asosida qurilgan 2HAM-EMAS ME sxemasida...
+pastki VT1 va VT2 tranzistorlar ketma – ket ulanadi
+pastki VT1 va VT2 tranzistorlar parallel ulanadi
+pastki VT1 va VT2 tranzistorlar ketma – ket va parallel ulanadi.
+pastki VT1 va VT2 tranzistorlar alohida ulanadi
+№175
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Pirs elementiga mos bo’lgan mantiqiy algebraik funksiyani toping
+1 2
+y  x  x
+1 2
+y  x  x
+y  x  x  x 1 2
+1 2 3
+y  x  x  x
+№176
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Sheffer elementiga mos bo’lgan mantiqiy algebraik funksiyani toping
+1 2
+y  x  x
+1 2
+y  x  x
+y  x  x  x 1 2
+1 2 3
+y  x  x  x
+№177
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+2
+2 1 1
+y  x  x  x  x
+ushbu ifoda qaysi mantiqiy elementning mantiqiy algebraik funksiyasi
+hisoblanadi?
+2 ISTISNO-YOKI
+2 HAM-EMAS
+2 ISTISNO-YOKI-EMAS
+2 YOKI
+№178
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Kombinatsion qurilmalar deb -
+chiqish signallari kirish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, xotirasiz mantiqiy
+qurilmalarga aytiladi.
+kirish signallari chiqish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, xotirasiz mantiqiy
+qurilmalarga aytiladi.
+kirish signallari chiqish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, ikkita vaqt
+momentiga ega bo‘lgan mantiqiy qurilmalarga aytiladi.
+chiqish signallari kirish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, vaqt momentiga
+ega bo‘lgan, xotirali mantiqiy qurilmalarga aytiladi.
+№179
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Mantiqiy elementlar ishlash prinsipiga ko‘ra -
+kombinatsion va ketma-ketli qurilmalarga bo‘linadi
+sinxron va asinxron qurilmalarga bo‘linadi
+kombinatsion va parallel qurilmalarga bo‘linadi
+ketma-ketli va parallel qurilmalarga bo‘linadi
+№180
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+O‘nlik, sakkizlik yoki o‘n oltitalik sanoq tizimidagi raqamlarni ikkilik yoki ikkilik-o‘nlik kodga
+o‘zgartiruvchi kombinatsion mantiqiy qurilma
+shifrator yoki koder deb ataladi.
+deshifrator yoki dekoder deb ataladi.
+multipleksor deb ataladi.
+demultipleksor deb ataladi.
+№181
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Ikkilik sanoq tizimidagi raqamlarni o‘nlik sanoq tizimidagi raqamga o‘zgartiruvchi
+kombinatsion mantiqiy qurilma
+deshifrator yoki dekoder deb ataladi.
+shifrator yoki koder deb ataladi.
+multipleksor deb ataladi.
+demultipleksor deb ataladi.
+№182
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Agar shifrator n ta chiqishga ega bo‘lsa, u holda uning kirishlari soni…..
+n
+2
+dan kam bo‘lmasligi kerak
+n
+n  2
+dan kam bo‘lmasligi kerak
+chiqishlari soniga teng bo’lishi kerak
+chiqishlari sonidan kam bo‘lishi kerak
+№183
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Multipleksor –
+bir necha manbadan berilayotgan ma'lumotlarni bitta chiqish kanaliga uzatishni boshqarish
+uchun mo‘ljallangan
+bir necha manbadan berilayotgan ma'lumotlarni bitta kirish kanaliga uzatishni boshqarish uchun
+mo‘ljallangan
+bir necha manbadan berilayotgan ma'lumotlarni ikkita chiqish kanaliga uzatishni boshqarish
+uchun mo‘ljallangan
+bitta manbadan berilayotgan ma'lumotlarni bitta chiqish kanaliga uzatishni boshqarish uchun
+mo‘ljallangan
+№184
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Demultipleksor
+bir kanaldan qabul qilingan ma'lumotlarni bir necha qabul qilgichlarga taqsimlash vazifasini
+(ya'ni multipleksiyalashga teskari bo‘lgan amal) bajarish uchun mo‘ljallangan
+bir necha kanaldan qabul qilingan ma'lumotlarni bitta qabul qilgichga taqsimlash vazifasini
+bajarish uchun mo‘ljallangan
+bir nechta kanaldan qabul qilingan ma'lumotlarni boshka kanalga taqsimlash vazifasini bajarish
+uchun mo‘ljallangan
+bir nechta kanaldan qabul qilingan ma'lumotlarni bir vaqtning o’zida bir nechta qabul qilgichga
+taqsimlash vazifasini bajarish uchun mo‘ljallangan
+№185
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Arifmetik va mantiqiy amallarni bajaradigan qurilma….
+arifmetik-mantiqiy qurilma (AMQ) deb ataladi
+arifmetik qurilma (AQ) deb ataladi
+mantiqiy qurilma (MQ) deb ataladi
+xotira qurilmasi deb ataladi
+№186
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Sodda amallar ketma-ketligi ko‘rinishida ifodalangan masalalarni avtomatik ravishda yechish
+uchun berilganlarni, oraliq va olingan hisoblash natijalarini saqlashga, hamda oddiy amallarni
+bajarish tartibi haqidagi ma'lumotlarni saqlashga imkon beruvchi qurilmaga….
+xotira deb ataladi
+arifmetik qurilma (AQ) deb ataladi
+mantiqiy qurilma (MQ) deb ataladi
+arifmetik-mantiqiy qurilma (AMQ) deb ataladi
+№187
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Ketma – ketli qurilmalar deb,
+chiqish signallari kirish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, hozirgi va oldingi
+vaqt momentlari uchun, ya'ni kirish o‘zgaruvchilarining kelish tartibi bilan belgilanadigan,
+xotirali mantiqiy qurilmalarga aytiladi.
+kirish signallari chiqish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, hozirgi va oldingi
+vaqt momentlari uchun, ya'ni kirish o‘zgaruvchilarining kelish tartibi bilan belgilanadigan,
+xotirali mantiqiy qurilmalarga aytiladi.
+kirish signallari chiqish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, hozirgi va oldingi
+vaqt momentlari uchun, ya'ni chiqish o‘zgaruvchilarining kelish tartibi bilan belgilanadigan,
+xotirali mantiqiy qurilmalarga aytiladi.
+chiqish signallari kirish o‘zgaruvchilari kombinatsiyasi bilan belgilanadigan, hozirgi va oldingi
+vaqt momentlari uchun, ya'ni chiqish o‘zgaruvchilarining kelish tartibi bilan belgilanadigan,
+xotirasiz mantiqiy qurilmalarga aytiladi.
+№188
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Ketma – ketli qurilmalarga qaysilar kiradi ?
+triggerlar, registrlar va hisoblagichlar
+demultipleksor, multipleksor, trigger
+shifrator, deshifrator, trigger
+jamlagich, yarimjamlagich, shifrator
+№189
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Triggerlar…
+ikkita turg‘un holatli chiqishga ega bo‘lgan qurilma bo‘lib, u elementar xotira yacheykasi
+(bistabil yacheyka) va boshqaruv sxemasiga ega.
+bitta turg‘un holatli kirishga ega bo‘lgan qurilma bo‘lib, u elementar xotira yacheykasi (bistabil
+yacheyka) va boshqaruv sxemasiga ega.
+bitta turg‘un holatli chiqishga ega bo‘lgan qurilma bo‘lib, u elementar xotira yacheykasi (bistabil
+yacheyka) va boshqaruv sxemasiga ega.
+uchta turg‘un holatli chiqishga ega bo‘lgan qurilma bo‘lib, u elementar xotira yacheykasi
+(bistabil yacheyka) va boshqaruv sxemasiga ega emas.
+№190
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+RS-trigger – ikkita boshqaruv kirishiga ega:
+S (set-o‘rnatish) – triggerni mustaqil ravishda 1 holatiga o‘rnatadi; R (reset-olib tashlash) –
+triggerni mustaqil ravishda 0 holatiga o‘rnatadi.
+S (set-o‘rnatish) – triggerni mustaqil ravishda 0 holatiga o‘rnatadi; R (reset-olib tashlash) –
+triggerni mustaqil ravishda 1 holatiga o‘rnatadi.
+S (set-o‘rnatish); R (reset-olib tashlash) – navbatdagi kirish impulsi kelishi bilan holatni qaramaqarshisiga o‘zgartiradi.
+S (set-o‘rnatish) – navbatdagi kirish impulsi kelishi bilan holatni qarama-qarshisiga o‘zgartiradi;
+R (reset-olib tashlash) – bitta ma'lumot kirishiga ega.
+№191
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+JK-trigger – ikkita boshqaruv kirishiga ega bo‘lgan universal trigger:
+J (jamp -kutilmagan ulanish) - triggerni mustaqil 1 holatga o‘rnatadi; K (kill -kutilmagan uzilish)
+- triggerni mustaqil 0 holatga o‘rnatadi.
+J (jamp -kutilmagan ulanish) - triggerni mustaqil 0 holatga o‘rnatadi; K (kill -kutilmagan uzilish)
+- triggerni mustaqil 1 holatga o‘rnatadi.
+J (jamp -kutilmagan ulanish) – bitta ma'lumot kirishiga ega; K (kill -kutilmagan uzilish) –
+navbatdagi kirish impulsi kelishi bilan holatni qarama-qarshisiga o‘zgartiradi.
+J (jamp -kutilmagan ulanish) – navbatdagi kirish impulsi kelishi bilan holatni qarama-qarshisiga
+o‘zgartiradi; K (kill -kutilmagan uzilish) – bitta ma'lumot kirishiga ega.
+№192
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Navbatdagi kirish impulsi kelishi bilan holatini qarama-qarshisiga o‘zgartiradi
+T-trigger
+D-trigger
+JK-trigger
+RS-trigger
+№193
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Kirishlariga berilayotgan impulslarni hisoblashni amalga oshiradigan qurilma
+hisoblagich
+registr
+trigger
+shifrator
+№194
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Ketma-ket turdagi raqamli qurilma bo‘lib, ko‘p razryadli ikkilik sonlar ko‘rinishidagi
+ma'lumotlarni eslab qolish va vaqtincha xotirada saqlash uchun ishlatiladigan qurilma
+registr
+multipleksor
+trigger
+shifrator
+№195
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Qaysi javobda JK triggerga to’g’ri ta’rif berilgan?
+universal trigger hisoblanadi chunki uning asosida sodda kommutatsion o‘zgartirishlarni bajarib,
+ixtiyoriy turdagi trigger hosil qilish mumkin.
+chiqishidagi ma’lumot navbatdagi sinxrosignal kelguncha o‘zgarishsiz qoladi, ya’ni kechikish
+mavjud. Shunga asosan bu trigger kechikish triggeri deb ataladi.
+ikkita turg‘un holatga ega bir-biri bilan o‘zaro kesishib ketgan, teskari aloqalari mavjud bo‘lgan
+ikkita invertorli xotirasiz mantiqiy qurilma
+bu trigger kirishiga aktiv mantiqiy signal berilganda u o‘z holatini qarama-qarshi (teskari)
+holatga o‘zgartiradi.
+№196
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Universal trigger hisoblanadi chunki uning asosida sodda kommutatsion o‘zgartirishlarni bajarib,
+ixtiyoriy turdagi trigger hosil qilish mumkin. Ushbu ta’rif qaysi triggerga berilgan?
+JK
+RS
+D
+T
+№197
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Chiqishidagi ma’lumot navbatdagi sinxrosignal kelguncha o‘zgarishsiz qoladi, ya’ni kechikish
+mavjud. Shunga asosan bu trigger kechikish triggeri deb ataladi. Ushbu ta’rif qaysi triggerga
+berilgan?
+D
+RS
+JK
+T
+№198
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Bu trigger kirishiga aktiv mantiqiy signal berilganda u o‘z holatini qarama-qarshi (teskari)
+holatga o‘zgartiradi. Ushbu ta’rif qaysi triggerga berilgan?
+T
+RS
+JK
+D
+№199
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Ikkita turg‘un holatga ega bir-biri bilan o‘zaro kesishib ketgan, teskari aloqalari mavjud bo‘lgan
+ikkita invertorli xotirasiz mantiqiy qurilma bu?
+Bistabil yacheyka
+Shifrator
+Deshifrator
+Multipleksor
+№200
+Manba: X.K.Aripov, A.M.Abdullayev, N.B.Alimova, X.X.Bustanov, Sh.T.Toshmatov.
+Raqamli mantiqiy qurilmalarni loyihalashtirish. T.: “Aloqachi”, 2017
+Qiyinlik darajasi – 3
+Bistabil yacheykaga berilgan to’g’ri ta’rifni toping
+Ikkita turg‘un holatga ega bir-biri bilan o‘zaro kesishib ketgan, teskari aloqalari mavjud bo‘lgan
+ikkita invertorli xotirasiz mantiqiy qurilma
+Kirishiga aktiv mantiqiy signal berilganda u o‘z holatini qarama-qarshi (teskari) holatga
+o‘zgartiradi.
+Chiqishidagi ma’lumot navbatdagi sinxrosignal kelguncha o‘zgarishsiz qoladi
+Mikroprotsessor tomonidan qayta ishlayotgan unchalik katta bo’lmagan xajmdagi ma’lumotlarni
+saqlashga mo’ljallangan qurilma
